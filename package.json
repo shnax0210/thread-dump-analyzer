@@ -1,0 +1,14 @@
+{
+  "name": "thread-dump-analyzer",
+  "version": "1.0.0",
+  "description": "Simple dump analyzer",
+  "main": "analyzer_cmd_adapter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shnax0210@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "17.7.0"
+  }
+}
