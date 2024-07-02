@@ -18,7 +18,7 @@ npm ci
 ```
 4. Now you are ready to use the app, it can be done by command:
 ```
-node analyzer_cmd_adapter.js --folderPath="${PATH_TO_FOLDER_WITH_DUMP_FILES} >> result.txt"
+node analyzer_cmd_adapter.js --folderPath="${PATH_TO_FOLDER_WITH_DUMP_FILES}" >> result.txt
 ```
 Notes: 
 - please replace ${PATH_TO_FOLDER_WITH_DUMP_FILES} with real path to folder with thread dump files!
